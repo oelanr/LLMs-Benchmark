@@ -1,0 +1,48 @@
+,Question,Provider:Model Name,Execution Time (s),Model Response
+1,I'm feeling really stressed about my upcoming exams.,huggingface:meta-llama/Llama-3.2-1B-Instruct,1.1344470977783203,"It sounds like you're feeling a lot of pressure and anxiety about the upcoming exams.
+It's completely understandable to feel that way, especially if you've been working hard to prepare.
+Here's a reassuring message:
+
+""I'm really sorry to hear that you're feeling stressed.
+It's normal to feel overwhelmed, but try to take a deep breath and remind yourself that you've got this.
+Break your study sessions into manageable chunks, set achievable goals, and celebrate small victories along the way.
+Remember, you."
+2,I'm feeling really stressed about my upcoming exams.,huggingface:meta-llama/Llama-3.2-3B-Instruct,0.9711582660675049,"I’m really sorry to hear that you're feeling stressed.
+It’s completely understandable to feel this way before exams.
+Try to take a deep breath and break your study sessions into smaller tasks to manage the pressure.
+Maybe make a schedule for each day and prioritize the most important topics.
+Take short breaks to refresh your mind, and don't hesitate to reach out to your teachers or classmates if you need help.
+You got this, and it's okay to not do everything perfectly – you'll learn from it."
+3,I'm feeling really lonely lately.,huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0837113857269287,"It sounds like you're going through a tough time.
+Feeling lonely doesn't mean there's anything wrong with you, and it's completely okay to feel this way.
+Would you like some company or someone to talk to? Sometimes human connection can help brighten up our day."
+4,I'm feeling really lonely lately.,huggingface:meta-llama/Llama-3.2-3B-Instruct,1.056290626525879,"I'm really sorry you're feeling this way.
+It's tough to feel lonely.
+Remember, you're not alone in this, and there are people who care about you and want to help.
+Would you feel comfortable talking about what's been going on, or is there something specific that's been making you feel lonely? Sometimes sharing with someone who can offer a listening ear can make a big difference."
+5,I'm having a tough time at work.,huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0978279113769531,"It sounds like you're going through a bit of a challenging time at work.
+First and foremost, please know that you're not alone in this.
+Many people face similar struggles at their workplaces, and it's completely normal to feel overwhelmed at times.
+
+Can you tell me more about what's going on at work that's causing you stress? Is it a specific project, a difficult team member, or something else entirely? By understanding the root cause, we might be able to find ways to alleviate."
+6,I'm having a tough time at work.,huggingface:meta-llama/Llama-3.2-3B-Instruct,0.9810981750488281,"I can imagine it can be really challenging to face difficulties at work.
+Would you like to talk about what's been going on and how you're feeling? Sometimes sharing your concerns with someone who cares can help you gain a fresh perspective or feel a bit lighter.
+I'm here to listen and offer any support I can."
+7,I'm worried about my health.,huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0084519386291504,"I'm so sorry to hear that you're struggling with your health.
+That must be incredibly challenging for you.
+Can you tell me a bit more about what's been going on and how you've been feeling? Sometimes sharing what's on your mind and getting things off your chest can help you feel a bit better.
+
+Also, if you feel comfortable sharing, have you noticed any patterns or common issues associated with your concerns? For example, if you're worried about a specific health condition, are there any."
+8,I'm worried about my health.,huggingface:meta-llama/Llama-3.2-3B-Instruct,1.056039810180664,"I'm really sorry to hear that you're feeling worried about your health.
+That can be a really overwhelming and concerning feeling.
+Would you be willing to talk a bit about what's going on and what's making you feel anxious about your health? Sometimes sharing your concerns with someone who cares can help alleviate some of that worry."
+9,I’m feeling overwhelmed with everything.,huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0260746479034424,"It sounds like you're feeling a bit like everything is piling up on you and it's making it hard to cope.
+That can be really tough to deal with.
+
+Take a deep breath and know that you're not alone in feeling this way.
+Many people experience feelings of overwhelm at some point or another.
+Can you tell me a bit more about what's going on and how you've been feeling lately? Sometimes talking about it can help me understand what you're going through and provide more support."
+10,I’m feeling overwhelmed with everything.,huggingface:meta-llama/Llama-3.2-3B-Instruct,0.9894063472747803,"I can sense that you're feeling really overwhelmed right now.
+It's like everything seems to be piling up and you're not sure where to start.
+It's completely normal to feel that way, and it's okay to ask for help.
+Would you like to talk about what's going on and see if we can break it down together, or is there something specific that's causing you to feel overwhelmed?."

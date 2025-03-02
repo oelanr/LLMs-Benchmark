@@ -1,0 +1,9 @@
+Scenario 1 
+Different approach
+B1 Incorrect, Omits parameters
+B3 correct reasoning but incomplete answer
+Dont follow example
+
+Scenario 2
+B1 Partially correct
+B3 correct and concise

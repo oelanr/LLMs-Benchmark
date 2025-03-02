@@ -1,0 +1,12 @@
+Scenario 1
+Incorrect and illogical Calculation for 1B
+Partially logical but Incorrect for 3B
+Incomplet Output for both
+
+Scenario 2 
+illogical, Incorrect and Incomplet for B1
+Misunderstanding cost per customer B1
+Irrelevant Calculation for B1
+Partially logical for B3 pu Calculation errors
+
+

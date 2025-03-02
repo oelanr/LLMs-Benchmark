@@ -1,0 +1,23 @@
+Question,Provider:Model Name,Execution Time (s),Model Response
+"A factory produces 1,000 units per day. Each unit costs $30 in raw materials and $10 in labor. If the factory operates for 20 days in a month, what is the total production cost for the month?",huggingface:meta-llama/Llama-3.2-1B-Instruct,1.9184401035308838,"To find the total production cost for the month, we need to multiply the daily production cost by the number of days the factory operates.
+
+Daily production cost: 1,000 units/day × $30/unit = $30,000
+
+Since the factory operates for 20 days in a month, we multiply the daily production cost by 20:
+$30,000 × 20 days = $600,000
+
+Alternatively, you can also break down the cost as follows:
+
+* Raw materials:."
+"A factory produces 1,000 units per day. Each unit costs $30 in raw materials and $10 in labor. If the factory operates for 20 days in a month, what is the total production cost for the month?",huggingface:meta-llama/Llama-3.2-3B-Instruct,2.6693413257598877,"To find the total production cost for the month, we need to calculate the daily cost and then multiply it by the number of days.
+
+First, calculate the daily cost: 
+
+Cost of raw materials per unit = $30
+Cost of labor per unit = $10
+Total cost per unit = $30 + $10 = $40 per unit
+
+Daily cost = 1,000 units/day × $40 per unit
+Daily cost = $40,000 per day
+
+Now, calculate the total."

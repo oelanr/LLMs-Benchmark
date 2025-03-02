@@ -1,0 +1,7 @@
+Scenario 1
+Logical but less elaborate 1B
+Logical 3B, comprehensive
+
+Scenario 2
+1B Doesnt take some parameters into account
+both Logical but incomplete 

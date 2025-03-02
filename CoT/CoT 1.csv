@@ -1,0 +1,27 @@
+Question,Provider:Model Name,Execution Time (s),Model Response
+"A software development company needs to hire 10 developers for a project. Each developer costs $50 per hour, and the project is estimated to require 800 hours of development time. The company also needs to budget for overhead costs of $10,000 and an additional $5,000 for software tools. What is the total estimated cost of the project?",huggingface:meta-llama/Llama-3.2-1B-Instruct,2.277853012084961,"To find the total estimated cost of the project, we need to calculate the costs for the developers, overhead costs, and software tools.
+
+**Developer Hire Cost:**
+
+There are 10 developers needed, with an hourly rate of $50.
+Cost of hiring 10 developers = number of developers * hourly rate
+= 10 * $50
+= $500
+
+**Overhead Costs:**
+
+The overhead costs are given as $10,000.
+
+**Additional Costs (Software Tools):**
+
+The."
+"A software development company needs to hire 10 developers for a project. Each developer costs $50 per hour, and the project is estimated to require 800 hours of development time. The company also needs to budget for overhead costs of $10,000 and an additional $5,000 for software tools. What is the total estimated cost of the project?",huggingface:meta-llama/Llama-3.2-3B-Instruct,2.729679584503174,"To calculate the total estimated cost of the project, we need to break it down into several components: 
+
+1.
+Cost of developer labor: 
+- Number of developers needed: 10
+- Cost per hour per developer: $50
+- Total hours required: 800
+- Calculate total labor cost: Total labor cost = (number of developers * cost per hour) * (total hours required)
+- Total labor cost = (10 * $50) * 800
+- Total labor cost."

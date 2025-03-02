@@ -1,0 +1,23 @@
+Question,Provider:Model Name,Execution Time (s),Model Response
+"A company orders 500 units of a product. The cost per unit is $25, and the shipping cost is $200 for the entire order. What is the total cost for the company to order and ship the products?",huggingface:meta-llama/Llama-3.2-1B-Instruct,1.874587059020996,"To find the total cost, we need to calculate the cost of the products and the cost of shipping.
+
+**Cost of products:**
+The company orders 500 units at $25 per unit.
+Cost = Quantity × Price per unit
+= 500 units × $25/unit
+= $12,500
+
+**Cost of shipping:**
+The shipping cost is $200 for the entire order.
+Shipping cost = $200
+
+**Total cost:**
+The total cost is the sum of the cost."
+"A company orders 500 units of a product. The cost per unit is $25, and the shipping cost is $200 for the entire order. What is the total cost for the company to order and ship the products?",huggingface:meta-llama/Llama-3.2-3B-Instruct,2.098923921585083,"Reasoning:
+
+1.
+Calculate the total cost of the products: 500 units × $25/unit = $12,500
+2.
+Add the shipping cost to the total cost of the products: $12,500 + $200 = $12,700
+
+Answer: $12,700."

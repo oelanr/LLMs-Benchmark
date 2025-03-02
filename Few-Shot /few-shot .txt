@@ -1,0 +1,13 @@
+Scenario 1 : 
+More coherent and concise response for B3
+More or less the same time execution for both models
+Both don't exactly follow the examples provided (Especially B1)
+Indesirable text for B1
+Incomplete outputs for both
+
+Scenario 2 : 
+Both don't follow the examples provided (Especially B1)
+B1 is focusing on text analysis 
+More concise for B3
+Indesirable text for B1
+

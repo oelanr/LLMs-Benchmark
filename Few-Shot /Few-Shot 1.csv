@@ -1,0 +1,56 @@
+Question,Provider:Model Name,Execution Time (s),Model Response
+"Patient A presents with fever, fatigue, and muscle aches. Blood tests show a high white blood cell count, and a chest X-ray reveals mild lung inflammation. These symptoms are consistent with a viral infection.",huggingface:meta-llama/Llama-3.2-1B-Instruct,1.2383100986480713,"Based on the patient's symptoms, the following medical diagnosis and treatment plan can be suggested:
+
+**Medical Diagnosis:**
+
+* Fever: Confirmatory of a viral infection
+* Fatigue: Common symptom of viral infections, including the flu and common cold
+* Muscle aches: Another common symptom of viral infections, including fatigue and inflammation
+* High white blood cell count: Indicated by a lymphocytosis, which is an elevated white blood cell count caused by the body's immune response to the."
+"Patient A presents with fever, fatigue, and muscle aches. Blood tests show a high white blood cell count, and a chest X-ray reveals mild lung inflammation. These symptoms are consistent with a viral infection.",huggingface:meta-llama/Llama-3.2-3B-Instruct,1.0793907642364502,"Diagnosis and Treatment:
+Patient A likely has a viral respiratory infection, possibly influenza or a cold.
+Given the symptoms and laboratory findings, treatment should focus on symptom management and supportive care to alleviate discomfort and prevent complications.
+
+Treatment Plan:
+
+1.
+**Fluid intake and hydration**: Encourage Patient A to drink plenty of fluids, such as water, clear broths, or electrolyte-rich beverages like sports drinks, to replenish lost fluids and electrolytes.
+2.
+**Over-the-counter pain relievers**:."
+"Patient B complains of abdominal pain, nausea, and vomiting. Laboratory results indicate elevated liver enzymes, and an ultrasound shows signs of gallstones. These findings suggest a diagnosis of acute cholecystitis.",huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0026969909667969,"**Medical Diagnosis:**
+
+Based on the patient's symptoms, laboratory results, and ultrasound findings, the most likely diagnosis is Acute Cholecystitis.
+
+**Medical Condition:**
+
+Acute Cholecystitis, also known as Gallbladder Inflammation, is a type of inflammatory disease that affects the gallbladder.
+It occurs when the gallbladder becomes inflamed, often due to a gallstone obstructing the cystic duct, which connects the gallbladder to the intestine."
+"Patient B complains of abdominal pain, nausea, and vomiting. Laboratory results indicate elevated liver enzymes, and an ultrasound shows signs of gallstones. These findings suggest a diagnosis of acute cholecystitis.",huggingface:meta-llama/Llama-3.2-3B-Instruct,1.0882959365844727,"**Diagnosis and Treatment:**
+
+Patient B is diagnosed with acute cholecystitis due to gallstones.
+This condition is an inflammation of the gallbladder, typically caused by the presence of gallstones that obstruct the gallbladder's drainage.
+Acute cholecystitis is a medical emergency that requires prompt treatment to prevent complications.
+
+**Treatment Plan:**
+
+1.
+**Surgical Intervention:** Given the presence of gallstones and acute inflammation, surgical removal of the gallbladder (cholec."
+"Patient C reports joint pain, rash, and swollen lymph nodes. Blood tests reveal a positive ANA (antinuclear antibody) test, suggesting autoimmune activity. The patient may be experiencing systemic lupus erythematosus (SLE).",huggingface:meta-llama/Llama-3.2-1B-Instruct,1.0512406826019287,"**Warning: This is a medical diagnosis, and not a specific prescription or treatment plan can be provided.**
+
+Patient C's symptoms and laboratory results indicate a high likelihood of autoimmune disease, specifically Systemic Lupus Erythematosus (SLE).
+However, only a qualified healthcare professional can provide an accurate diagnosis and develop a personalized treatment plan.
+
+**Possible Diagnosis:**
+
+* SLE (Systemic Lupus Erythematosus)
+* Other autoantibody-positive conditions, such as."
+"Patient C reports joint pain, rash, and swollen lymph nodes. Blood tests reveal a positive ANA (antinuclear antibody) test, suggesting autoimmune activity. The patient may be experiencing systemic lupus erythematosus (SLE).",huggingface:meta-llama/Llama-3.2-3B-Instruct,1.1156158447265625,"Diagnosis and Treatment: 
+
+'T Patient C presents with symptoms of joint pain, rash, and swollen lymph nodes, along with a positive ANA (antinuclear antibody) test.
+These findings suggest an autoimmune disorder, with SLE as a possible diagnosis.
+Systemic lupus erythematosus (SLE) is an chronic autoimmune disease that can affect multiple organ systems.
+
+Initial Treatment Plan: 
+
+1.
+**Pain Management**: The patient will be prescribed nonsteroidal anti-inflammatory drugs (."
