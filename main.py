@@ -8,10 +8,9 @@ client = ai.Client()
 import time
 
 llms = [
-    #"huggingface:meta-llama/Llama-3.1-8B-Instruct",
-    "anthropic:claude-3-5-sonnet-20240620",
+    #"huggingface:meta-llama/Llama-3.1-8B-Instruct"
     "huggingface:meta-llama/Llama-3.2-1B-Instruct",
-    #"huggingface:meta-llama/Llama-3.2-3B-Instruct"
+    "huggingface:meta-llama/Llama-3.2-3B-Instruct"
 ]
 
 def compare_llm(messages):
