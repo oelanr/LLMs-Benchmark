@@ -7,13 +7,12 @@ Contents
 
 Quickstart
 1. Clone:
-   git clone https://github.com/oelanr/LLMs-Benchmark.git
+   `git clone https://github.com/oelanr/LLMs-Benchmark.git`
 2. Setup:
-   python -m venv .venv
-   source .venv/bin/activate
-   pip install jupyterlab python-dotenv pandas matplotlib aisuite
-3. Add API creds in a `.env` (used by `aisuite`), then run:
-   jupyter lab and open bench.ipynb
+  ` python -m venv .venv`
+  ` source .venv/bin/activate`
+   `pip install jupyterlab python-dotenv pandas matplotlib aisuite`
+3. Add API creds in a `.env` (used by `aisuite`), then run jupyter lab and open bench.ipynb
 
 What it does (brief)
 - Benchmarks two or more models listed in the `llms` variable (provider:model strings).
